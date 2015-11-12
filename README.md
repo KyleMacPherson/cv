@@ -56,4 +56,4 @@ During my time at Makers Academy I gained a reputation for being able to communi
 
 ___Technologies and examples of work:___
 
-__Contact details:__ kaimac2010@gmail.com
+__Contact details:__ macphersonkd@gmail.com
