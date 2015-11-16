@@ -6,22 +6,15 @@ __Skills:__
 
 ___Test Driven Development___
 
-As a Makers Academy graduate I place a strong emphasis on writing well tested code. I develop all my applications from user specifications, using these to write feature tests. I then build up to passing the feature tests with unit tests. This ensure that I deliver a high quality, easy to maintain code base that meets the specifications without adding unnecessary undocumented features. Full test coverage also enables me to refactor any code I have written while remaining assured that refactoring doesn’t break any features. Example of test coverage:
-
-_Ruby on Rails example:_
-
-_AngularJS example:_
+As a Makers Academy graduate I place a strong emphasis on writing well tested code. I develop all my applications from user specifications, using these to write feature tests. I then build up to passing the feature tests with unit tests. This ensure that I deliver a high quality, easy to maintain code base that meets the specifications without adding unnecessary undocumented features. Full test coverage also enables me to refactor any code I have written while remaining assured that refactoring doesn’t break any features.
 
 ___Object Oriented Design___
 
 I write clean code, comprised of single responsibility classes. This allows for reuse of features, easier reading, easier unit testing and easier extension and modification. I adhere to S.O.L.I.D principles when writing code and always write DRY code.
 
-_example:_
-
 ___Web Development___
 
 I’m very comfortable working and developing RESTful APIs. I’ve worked a lot with get and post requests in Ruby and JavaScript.
-_Example:_
 
 I’m confident writing and running my own servers, and deploying apps to Heroku. I’ve also worked with Amazon Web Services and know how to keep sensitive data in environment variables rather than pushing it to github!
 
@@ -48,7 +41,6 @@ I’ve worked with PSQL through ORMs such as DataMapper and ActiveRecord. I’ve
 ___Agile Development___
 
 I’m a big fan of the agile development process. I’ve been part of and also run twice daily standups/scrums. I start projects by identifying the minimum viable product, building that in a modular extensible fashion and only adding features when requested by the client. I’ve used kanban boards, particularly waffle.io (as it tracks with git issues) to manage the work load in teams working to develop a product.
-_Example:_
 
 ___Communication___
 
