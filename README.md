@@ -10,7 +10,7 @@ As a Makers Academy graduate I place a strong emphasis on writing well tested co
 
 ___Object Oriented Design___
 
-I write clean code, comprised of single responsibility classes. This allows for reuse of features, easier reading, easier unit testing and easier extension and modification. I adhere to S.O.L.I.D principles when writing code and always write DRY code.
+I write clean code comprised of single responsibility classes. This allows for reuse of features, easier reading, easier unit testing and easier extension and modification. I adhere to S.O.L.I.D principles when writing code and always write DRY code.
 
 ___Web Development___
 
