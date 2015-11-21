@@ -1,51 +1,71 @@
-# Kyle MacPherson
+## Kyle MacPherson
 
-I'm a Makers Academy graduate who loves having coding problems to puzzle over and solve. I'm seeking a working environment that is strongly conducive to learning new skills, ideally with a group of enthusiastic developers allowing me to hone my craft and take my skill set to the next level.
+Junior web developer/software engineer with a love for data, statistics and getting things done! Successful eight year career as a profesisonal poker player ([see me on TV!](https://youtu.be/pkXecSRDZ9s?t=1037)) and currently a pupil in all things object-oriented. Studied code at Makers Academy and fell in love with software programming and design. Presently I'm looking to begin my new career in an environment with equally passionate individuals where I can continue to learn fast amongst a team and return value quickly.
 
-__Skills:__
+## Code examples:
 
-___Test Driven Development___
+__Rails API's__
 
-As a Makers Academy graduate I place a strong emphasis on writing well tested code. I develop all my applications from user specifications, using these to write feature tests. I then build up to passing the feature tests with unit tests. This ensure that I deliver a high quality, easy to maintain code base that meets the specifications without adding unnecessary undocumented features. Full test coverage also enables me to refactor any code I have written while remaining assured that refactoring doesn’t break any features.
+[Ushare API](https://github.com/KyleMacPherson/UShare) - I used BCrpyt for password encryption and wrote my own user authentication for the back end of my teams final project. Fully tested.
 
-___Object Oriented Design___
+[RaveBotAPI](https://github.com/KyleMacPherson/RaveBot_API). Simple rails API. Fully tested.
 
-I write clean code comprised of single responsibility classes. This allows for reuse of features, easier reading, easier unit testing and easier extension and modification. I adhere to S.O.L.I.D principles when writing code and always write DRY code.
+__Ruby on Rails__
 
-___Web Development___
+[Instagram challenge](https://github.com/KyleMacPherson/instagram-challenge). Test driven Instagram clone. Images hosted with Amazon Web Services.
 
-I’m very comfortable working and developing RESTful APIs. I’ve worked a lot with get and post requests in Ruby and JavaScript.
+__AngularJS__
 
-I’m confident writing and running my own servers, and deploying apps to Heroku. I’ve also worked with Amazon Web Services and know how to keep sensitive data in environment variables rather than pushing it to github!
+[ToDo Challenge](https://github.com/KyleMacPherson/todo_challenge) - Dynamic todo list
+
+## Skills
+
+#### Self-led learner
+
+I completed the 12-week full-time curriculum at the Makers Academy bootcamp filled with intense pair-programming and exposure to theory and best practice during the week, and solo real-world challenges every weekend. This gave us a compact introduction to test-driven development and forces us to be agile, value teamwork and learn new tech quick.
+
+Completed every challenge, using Ruby, Rails, JavaScript, AngularJS, HTML, CSS and more, all test-driven by user stories.
+
+Learned to love Git. Very comfortable with using git to manage different features of a product under development. I know how to use branching git workflow, reverting in git and handling merge conflicts.
+
+Enjoyed learning about concepts and technologies outside of the scope of the Makers curriculum; working with both ionic and meteor to create mobile apps and becoming especially interested in creating and working with API's, particularly in Rails, but also using Sinatra and Express.
+
+#### Team player
+
+As a Makers Academy graduate I have spent a lot of time pair programming as well as working in small teams. My favourite periods of the course were the final weeks during which I have been part of a teams producing MVPs to a deadline. I find these kind of high pressure situations extremely exciting, and have found that this is where I have done my best work, and progressed the fastest. I have also found that understanding the thought processes of others, as well as having to explain my own, has been an invaluable learning tool.
+
+## Education
+
+#### Makers Academy (Sept to Nov 2015)
+
+Experience aplenty of buddying-up and coding solo
+Emphasis on being a self-starting learner
+Taught best practice of key principles (especially those expressed as an acronym): OOP, TDD, BDD, DDD, SOLID, MVC
+Ruby, Rails, JavaScript, jQuery, AngularJS
+Agile approach; pair programming; group projects
 
 
-___Pair programming and working in teams___
+#### University of Salford (Sept 2004 to June 2007)
 
-As a Makers Academy graduate I have spent a lot of time pair programming and working in teams between 4 and 6 strong to produce MVPs under a deadline. I love pair programming as I find it very efficient. Having two heads to bounce ideas off and explaining my thought processes out loud really helps with developing a product.
+Business Economics
+Dissertation on market efficiency in UK sports betting markets.
 
-___Git version control___
+## Employment
 
-I have worked extensively with git and am very comfortable with using git to manage different features of a product under development. I know how to use branching git workflow, reverting in git and handeling merge conflicts.
+#### Professional Poker player (June 2007 to Sept 2015)
 
-_My Github:_
++ 10+ appearances in World Series of Poker events in Las Vegas (_unfortunately I didn't win any of them!_)
++ Multiple TV appearances and magazine/online interviews
++ Most importantly learned and honed the following skills:
+  + Statistical analysis
+  + Independant learning
+  + Self motivation and discipline
+  + Game Theory principles
+  + Problem solving
+  + Calm decision making under pressure
 
-___Unix environments___
+#### Contact Me:
 
-I do all my development from the command line (Mac Bash shell). I’m very comfortable working in this environment, even more so than in Finder!
+_MacPhersonKD@gmail.com_
 
-___Databases___
-
-I’ve worked with PSQL through ORMs such as DataMapper and ActiveRecord. I’ve also worked with the NoSQL database MongoDB. I can also issue raw SQL commands from the command line.
-
-
-___Agile Development___
-
-I’m a big fan of the agile development process. I’ve been part of and also run twice daily standups/scrums. I start projects by identifying the minimum viable product, building that in a modular extensible fashion and only adding features when requested by the client. I’ve used kanban boards, particularly waffle.io (as it tracks with git issues) to manage the work load in teams working to develop a product.
-
-___Communication___
-
-During my time at Makers Academy I gained a reputation for being able to communicate ideas and programming concepts clearly to my fellow students. I’ve given a joint lecture on how to think about a particularly difficult coding problem to the juniors on the course and I’ve spent time sitting with students who were struggling and explained to them the concepts they were having difficulty with. I’m currently mentoring a friend who is interested in web development and applying to join Makers Academy.
-
-___Technologies and examples of work:___
-
-__Contact details:__ macphersonkd@gmail.com
+_github.com/kylemacpherson_
