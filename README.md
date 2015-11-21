@@ -32,7 +32,7 @@ Enjoyed learning about concepts and technologies outside of the scope of the Mak
 
 #### Team player
 
-As a Makers Academy graduate I have spent a lot of time pair programming as well as working in small teams. My favourite periods of the course were the final weeks during which I have been part of a teams producing MVPs to a deadline. I find these kind of high pressure situations extremely exciting, and have found that this is where I have done my best work, and progressed the fastest. I have also found that understanding the thought processes of others, as well as having to explain my own, has been an invaluable learning tool.
+As a Makers Academy graduate I have spent a lot of time pair programming as well as working in small teams. My favourite periods of the course were the final weeks during which I have been part of a teams producing MVPs to a deadline. I find these kind of high pressure situations exciting and motivating, and have found that this is where I have done my best work, and progressed the fastest. I have also found that understanding the thought processes of others, as well as having to explain my own, has been an invaluable learning tool.
 
 ## Education
 
