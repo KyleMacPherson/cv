@@ -4,13 +4,13 @@ Junior web developer/software engineer with a love for data, statistics and gett
 
 ## Code examples:
 
-__Rails API's__
+__Mobile__
 
-[Ushare API](https://github.com/KyleMacPherson/UShare) - I used BCrpyt for password encryption and wrote my own user authentication for the back end of my teams final project. Fully tested.
-
-[RaveBotAPI](https://github.com/KyleMacPherson/RaveBot_API). Simple rails API. Fully tested.
+[RaveBot](https://github.com/KyleMacPherson/RaveBot). A fun app to manage and socially curate playlists. Built on the Ionic framework with a Rails backend. 
 
 __Ruby on Rails__
+
+[Ushare API](https://github.com/KyleMacPherson/UShare) - I used BCrpyt for password encryption and wrote my own user authentication for the back end of my teams final project. Fully tested.
 
 [Instagram challenge](https://github.com/KyleMacPherson/instagram-challenge). Test driven Instagram clone. Images hosted with Amazon Web Services.
 
