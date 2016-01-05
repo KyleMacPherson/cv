@@ -36,12 +36,6 @@ As a Makers Academy graduate I have spent a lot of time pair programming as well
 
 ## Education
 
-#### Angeloop.co (Nov 2015 - present)
-
-Gaining experience fast, and learning huge amounts about real world web development after being thrown in at the deep end of startup life!  
-Adding features since the first week.
-Primarily using Rails and AngularJS.
-
 #### Makers Academy (Sept to Nov 2015)
 
 Experience aplenty of buddying-up and coding solo
@@ -57,6 +51,12 @@ Business Economics
 Dissertation on market efficiency in UK sports betting markets.
 
 ## Employment
+
+#### Angeloop.co (Nov 2015 - present)
+
+Gaining experience fast, and learning huge amounts about real world web development after being thrown in at the deep end of startup life!  
+Adding features since the first week.
+Primarily using Rails and AngularJS.
 
 #### Professional Poker player (June 2007 to Sept 2015)
 
