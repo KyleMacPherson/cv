@@ -1,12 +1,12 @@
 ## Kyle MacPherson
 
-Junior web developer/software engineer with a love for data, statistics and getting things done! Successful eight year career as a profesisonal poker player ([see me on TV!](https://youtu.be/pkXecSRDZ9s?t=1037)) and currently a pupil in all things object-oriented. Studied code at Makers Academy and fell in love with software programming and design. Presently I'm looking to begin my new career in an environment with equally passionate individuals where I can continue to learn fast amongst a team and return value quickly.
+Junior web developer/software engineer with a love for data, design and getting things done! Successful eight year career as a professional poker player ([see me on TV!](https://youtu.be/pkXecSRDZ9s?t=1037)) and currently a pupil in all things object-oriented. Studied code at Makers Academy and fell in love with software programming and design. Presently I'm working for Angeloop.co, an exciting FinTech startup based in London.
 
 ## Code examples:
 
 __Mobile__
 
-[RaveBot](https://github.com/KyleMacPherson/RaveBot). A fun app to manage and socially curate playlists. Built on the Ionic framework with a Rails backend. 
+[RaveBot](https://github.com/KyleMacPherson/RaveBot). A fun app to manage and socially curate playlists. Built on the Ionic framework with a Rails backend.
 
 __Ruby on Rails__
 
@@ -35,6 +35,12 @@ Enjoyed learning about concepts and technologies outside of the scope of the Mak
 As a Makers Academy graduate I have spent a lot of time pair programming as well as working in small teams. My favourite periods of the course were the final weeks during which I have been part of a teams producing MVPs to a deadline. I find these kind of high pressure situations exciting and motivating, and have found that this is where I have done my best work, and progressed the fastest. I have also found that understanding the thought processes of others, as well as having to explain my own, has been an invaluable learning tool.
 
 ## Education
+
+#### Angeloop.co (Nov 2015 - present)
+
+Gaining experience fast, and learning huge amounts about real world web development after being thrown in at the deep end of startup life!  
+Adding features since the first week.
+Primarily using Rails and AngularJS.
 
 #### Makers Academy (Sept to Nov 2015)
 
