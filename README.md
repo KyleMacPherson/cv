@@ -1,6 +1,6 @@
 ## Kyle MacPherson
 
-Junior web developer/software engineer with a love for data, statistics and getting things done! Successful eight year career as a profesisonal poker player ([see me on TV!](https://youtu.be/pkXecSRDZ9s?t=1037)) and currently a pupil in all things object-oriented. Studied code at Makers Academy and fell in love with software programming and design. Presently I'm looking to begin my new career in an environment with equally passionate individuals where I can continue to learn fast amongst a team and return value quickly.
+Junior web developer/software engineer with a love for data, statistics and getting things done! Successful eight year career as a professional poker player ([see me on TV!](https://youtu.be/pkXecSRDZ9s?t=1037)) and currently a pupil in all things object-oriented. Studied code at Makers Academy and fell in love with software programming and design. Presently I'm looking to begin my new career in an environment with equally passionate individuals where I can continue to learn fast amongst a team and return value quickly.
 
 ## Code examples:
 
