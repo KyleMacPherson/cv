@@ -6,7 +6,7 @@ Junior web developer/software engineer with a love for data, design and getting 
 
 __Mobile__
 
-[RaveBot](https://github.com/KyleMacPherson/RaveBot). A fun app to manage and socially curate playlists. Built on the Ionic framework with a Rails backend.
+[RaveBot](https://github.com/KyleMacPherson/RaveBot). A fun app to manage and socially curate playlists. Built on the Ionic framework with a Rails backend (which you can find [here](https://github.com/KyleMacPherson/RaveBot_API)).
 
 __Ruby on Rails__
 
